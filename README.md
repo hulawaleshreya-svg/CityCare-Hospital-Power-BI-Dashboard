@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that tracks bed utilization, diagnosis trends, doctor feedback, and billing versus insurance coverage for a hospital.
 
-![CityCare Hospital dashboard](dashboard_preview.png)
+![CityCare Hospital dashboard](CityCare_Hospital_Dashboard.png)
 
 **Tools:** Power BI Desktop, Microsoft Excel (data source)
 
@@ -34,7 +34,7 @@ An interactive Power BI dashboard that tracks bed utilization, diagnosis trends,
 
 ## How to use
 
-1. Download `CityCare_Hospital_Dashboard.pbix`.
+1. Download `CityCare_Hospital_Dashbord (1).pbix`.
 2. Open it in Power BI Desktop (free for Windows).
 3. If Power BI asks for the data source, point it to `Hospital_Management_Dataset.xlsx`.
 
